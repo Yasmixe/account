@@ -1,4 +1,4 @@
-![](https://github.com/Yasmixe/account/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![](https://github.com/Yasmixe/Yasmixe/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
 <h3 align="center">Data scientist, front-end developer. Interested in Deep learning, computer vision and quantum machine learning.</h3>
 
