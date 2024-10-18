@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **yasminehanafi59@gmail.com**
 
-- ⚡ Fun fact **I'm a graphic artist and poet**
+- ⚡ Fun fact **I'm a Digital artist and French poet**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
