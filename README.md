@@ -1,7 +1,12 @@
 ![](https://github.com/Yasmixe/account/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif)
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
 <h3 align="center">Data scientist, front-end developer. Interested in Deep learning, computer vision and quantum machine learning.</h3>
-<img align="right" alt= "coding" width="400" src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif" >
+
+<p align="center">
+
+  <img align="right" alt= "coding" width="400" src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif" >
+</p>
+
 
 - 🔭 I’m currently working on [System multi agents to generate legal documents](https://github.com/Yasmixe/infinite-scrolling-selenium-)
 
